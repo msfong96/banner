@@ -2,13 +2,13 @@
   "Banner":[
     {
       "id": "1",
-      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner-01.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/msfong96/banner/main/banner/banner1.jpg",
       "title": "Banner 1",
       "link":""
     },
     {
       "id":"2",
-      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner-02.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/msfong96/banner/main/banner/banner2.jpg",
       "title": "Banner 2",
       "link":""
     }
